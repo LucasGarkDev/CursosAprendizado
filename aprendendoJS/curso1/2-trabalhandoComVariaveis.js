@@ -4,7 +4,7 @@ console.log("Trabalhando com variáveis");
 
 const idade = 29;
 const nome = "Ricardo";
-numero = 34;
+var numero = 34.9;
 console.log(numero);
 //não fazer
 //mes = "Janeiro";
