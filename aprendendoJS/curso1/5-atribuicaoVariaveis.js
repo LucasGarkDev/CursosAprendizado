@@ -7,8 +7,10 @@ const sobrenome = "Bugan";
 console.log(primeiroNome, sobrenome)
 console.log(`Meu nome é ${primeiroNome} ${sobrenome}`);
 
-// let contador = 0
-// contador = contador +1
+let contador = 0
+contador = contador +1
+nome = primeiroNome + sobrenome;
+console.log(nome);
 // const nomeCompleto = primeiroNome + sobrenome;
 // console.log(nomeCompleto);
-// nomeCompleto = 2;
+nomeCompleto = 2;
