@@ -1,4 +1,4 @@
-class ContaCorrente{
+export class ContaCorrente{
     agencia;
     #saldo = 0;
     sacar(valor){
