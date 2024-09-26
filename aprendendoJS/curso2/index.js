@@ -14,5 +14,7 @@ contaCorrente1.depositar(200);
 contaCorrente1.depositar(-1);
 const valorSacado = contaCorrente1.sacar(50);
 
+console.log(valorSacado)
+
 
 
