@@ -4,7 +4,8 @@
     "target": "ES6",
     "paths": {
       "undici-types": ["./node_modules/undici-types/index.d.ts"]
-    }
+    },
+    "noEmitOnError": true
   },
   "include": ["app/**/*"]
 }
