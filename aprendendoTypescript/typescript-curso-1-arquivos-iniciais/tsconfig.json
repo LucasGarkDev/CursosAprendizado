@@ -1,7 +1,10 @@
 {
-    "compilerOptions": {
-        "outDir": "dist/js",
-        "target": "ES6"
-    },
-    "include": ["app/**/*"]
+  "compilerOptions": {
+    "outDir": "dist/js",
+    "target": "ES6",
+    "paths": {
+      "undici-types": ["./node_modules/undici-types/index.d.ts"]
+    }
+  },
+  "include": ["app/**/*"]
 }
