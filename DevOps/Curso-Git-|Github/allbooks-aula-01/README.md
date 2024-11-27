@@ -1,8 +1,8 @@
 # AllBooks
-
+Boas vindas a API do Allbooks
 O AllBooks é uma loja virtual que vende livros da Casa do Código. 
 É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
-s
+
 # JSONServer + JWT Auth
 
 Essa é ma API Rest mockada, utilizando json-server e JWT.
